@@ -80,6 +80,7 @@
 </html>
 
 <script type="text/javascript">
+	//execute window scroll..
 	$(window).scroll(function(){
 		var width = $( window ).width();
 		// var height = $( window ).height();
@@ -105,5 +106,4 @@
 			
 		}
 	});
-
 </script>
